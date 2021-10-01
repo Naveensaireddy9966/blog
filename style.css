@@ -1,0 +1,31 @@
+.description-container {
+    max-width: 800px;
+    margin: 40px auto 20px;
+}
+.description-container p{
+    text-align: justify;
+}
+.description-container .floating-image {
+    max-width: 400px;
+}
+.description-container .floating-image.right {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 7px;
+}
+.description-container .floating-image.left {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 7px;
+    max-width: 200px;
+}
+.middle {
+    font-size: 30px;
+    text-align: center;
+}
+.down {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
